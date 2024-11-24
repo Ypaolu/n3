@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085338169544",
+    "project_id": "n3auth-8c183",
+    "storage_bucket": "n3auth-8c183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085338169544:android:0694d64ea0e9017fa0f5fd",
+        "android_client_info": {
+          "package_name": "com.example.n3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085338169544-tjo2mjg08rn50lkasavncrnn95n7jsa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Tb2TQIFYOSHAMPesV_visGGUg8mn-3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085338169544-tjo2mjg08rn50lkasavncrnn95n7jsa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
